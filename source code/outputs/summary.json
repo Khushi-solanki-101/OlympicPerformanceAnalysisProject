@@ -1,0 +1,27 @@
+{
+  "data_source": "athlete_events_sample.csv",
+  "rows": 40147,
+  "years": [
+    1992,
+    2020
+  ],
+  "countries": 28,
+  "sports": 24,
+  "total_medals": 4271,
+  "top_country": "United States",
+  "top_country_medals": 568,
+  "top3": {
+    "United States": 568,
+    "China": 447,
+    "Russia": 361
+  },
+  "female_share_first_games": 44.6,
+  "female_share_last_games": 51.7,
+  "avg_host_uplift_pct": 79.1,
+  "youngest_median_sport": "Gymnastics",
+  "youngest_median_age": 20.0,
+  "oldest_median_sport": "Shooting",
+  "oldest_median_age": 33.0,
+  "best_conversion_country": "United States",
+  "best_conversion_rate": 22.86
+}
