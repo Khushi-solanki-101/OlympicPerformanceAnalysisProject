@@ -2,7 +2,7 @@
 
 **Link for the Project Demo video:**
 
-https://drive.google.com/file/d/REPLACE_WITH_YOUR_DRIVE_FILE_ID/view?usp=drive_link
+https://drive.google.com/file/d/1Lhlm0daahndLfpiHFVI8n_EB9OxSzgx0/view?usp=sharing
 
 ---
 
